@@ -59,3 +59,5 @@ Open [http://localhost:3000](http://localhost:3000).
 ## Deployment
 
 Deploy on Vercel or Netlify after setting the same environment variables.
+Url:https://social-nest-8lym.vercel.app/
+
